@@ -12,6 +12,12 @@ A mathematical multi-market co-optimization and bidding engine for grid-scale Ba
 
 ---
 
+## 📊 Market Price Signals & BESS Capacity Stacking
+
+![BESS Balancing Dispatch](bess_balancing_market_dispatch.png)
+
+---
+
 ## 📌 Mathematical Formulation & Market Microstructure
 
 1. **Multi-Market Revenue Stacking Formulation:**
